@@ -1,0 +1,33 @@
+Filetype: Flipper SubGhz Key File
+Version: 1
+Frequency: 304250000
+Preset: FuriHalSubGhzPresetOok650Async
+Protocol: BinRAW
+Bit: 596
+TE: 746
+Bit_RAW: 46
+Data_RAW: 00 00 01 D7 D5 5D
+Bit_RAW: 46
+Data_RAW: 00 00 01 D7 D5 5D
+Bit_RAW: 46
+Data_RAW: 00 00 03 AF AA AD
+Bit_RAW: 46
+Data_RAW: 00 00 07 56 D5 5D
+Bit_RAW: 46
+Data_RAW: 00 00 03 AF AA AD
+Bit_RAW: 46
+Data_RAW: 00 00 0B 56 D5 5D
+Bit_RAW: 46
+Data_RAW: 00 00 03 AE D5 5D
+Bit_RAW: 46
+Data_RAW: 00 00 01 D7 D5 5D
+Bit_RAW: 46
+Data_RAW: 00 00 05 AF AA AD
+Bit_RAW: 46
+Data_RAW: 00 00 16 AD AA AD
+Bit_RAW: 46
+Data_RAW: 00 00 01 D7 D5 5D
+Bit_RAW: 45
+Data_RAW: 00 00 03 AE D5 55
+Bit_RAW: 45
+Data_RAW: 00 00 07 56 D5 55
